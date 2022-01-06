@@ -1,0 +1,110 @@
+body{
+    margin : 0;
+    padding : 0;
+}
+
+.intro-page{
+
+    margin-top: 50px;
+    margin-left: 40px;
+    display: flex;
+    height : 75%;
+
+}
+
+.intro-heading{
+
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.first-half-intro{
+
+    width : 50%;
+    margin-right: 100px;
+
+}
+
+.img-intro{  
+    height : 300px;
+    width: 300px;
+    border-radius: 120px;
+}
+
+.my-mission-2022{
+    
+}
+
+.my-mission-2022 h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+.my-target{
+    display: flex;
+}
+
+.container{
+    width : 90%;
+    height : 50%;
+    display: flex;
+    margin-left: 30px;
+    margin-right : 30px;
+}
+
+.container img{
+    height : 150px;
+}
+
+.container-margin{
+    padding-left : 15px;
+    padding-right : 15px;
+    margin-left: 30px;
+    text-align: left;
+    border-radius: 10%;
+}
+
+.bgclb{
+    background-color: rgba(137, 43, 226, 0.274);
+}
+
+.bgclp{
+    background-color: rgba(216, 112, 147, 0.274);
+}
+
+.bgcly{
+    background-color: rgba(255, 248, 220, 0.397);
+}
+
+.Develop{
+    margin-top: 80px;
+    margin-left: 70px;
+    display: flex;
+    flex-direction: row;
+}
+
+.Develop img {
+    height : 300px;
+    width : 300px;
+}
+.developer-para{
+    width : 50%;
+    margin-left: 30px;
+
+}
+
+.footer{
+    margin-top: 20px;
+    background-color: black;
+    width : 100%;
+    height : 20%;
+    color : white ;
+    text-align: center;
+}
+
+.heading-footer{
+    margin-top: 30px;
+}
+
