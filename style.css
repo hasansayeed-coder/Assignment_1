@@ -3,6 +3,12 @@ body{
     padding : 0;
 }
 
+.vertical-top{
+
+    border-left : 3px solid red;
+    height: 120px;
+    margin-right: 20px;
+}
 .intro-page{
 
     margin-top: 50px;
@@ -14,14 +20,15 @@ body{
 
 .intro-heading{
 
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto', sans-serif;
+    color : orange;
 
 }
 
 
 .first-half-intro{
-
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
     width : 50%;
     margin-right: 100px;
 
@@ -108,3 +115,13 @@ body{
     margin-top: 30px;
 }
 
+.btn{
+    background-color: red;
+    padding : 10px;
+    color : white;
+}
+
+.btn:hover{
+    color : red;
+    background-color: palegreen;
+}
